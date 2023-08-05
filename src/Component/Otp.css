@@ -1,0 +1,17 @@
+.otp-container{
+    position:absolute;
+    top:15rem;
+    left:40rem;
+    height:15rem;
+    width:40rem;
+    background:black ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    opacity:0.9;
+    flex-direction: column;
+
+}
+.verify-btn{
+    width:8rem !important
+}
